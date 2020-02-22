@@ -37,7 +37,7 @@
   "dependencies": {
     "debug": "^3.1.0",
     "lodash": "^4.17.11",
-    "loopback-swagger": "^5.0.0",
+    "loopback-swagger": "git+https://github.com/mrbatista/loopback-swagger.git#feat/include-relations",
     "strong-globalize": "^4.1.1",
     "swagger-ui": "^2.2.5"
   }
